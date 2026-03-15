@@ -92,7 +92,7 @@ Nine pull requests were authored, prioritizing code quality, comprehensive testi
 | excalidraw | [#14](https://github.com/jitsi/excalidraw/pull/14) | Expanded visibility controls and defaults |
 | excalidraw | [#15](https://github.com/jitsi/excalidraw/pull/15) | Modular storage backend for image handling |
 | jitsi-meet | [#16392](https://github.com/jitsi/jitsi-meet/pull/16392) | Comprehensive migration and backend integration |
-| jitsi-meet-file-sharing-service | [#2](https://github.com/jitsi/jitsi-meet-file-sharing-service/pull/2) | IntegrateS3 Compatible Pluggable backend Backend |
+| jitsi-meet-file-sharing-service | [#2](https://github.com/jitsi/jitsi-meet-file-sharing-service/pull/2) | Integrate S3 Compatible Pluggable backend Backend |
 ---
 
 ## Key Achievements
